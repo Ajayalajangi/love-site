@@ -1,7 +1,10 @@
 {
-  "homepage": "https://Ajayalajangi.github.io/love-site",
+{
+  "homepage": ".",
   "name": "love-dedication-site",
   "version": "1.0.0",
+  // ... the rest of your code stays exactly the same
+}
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
